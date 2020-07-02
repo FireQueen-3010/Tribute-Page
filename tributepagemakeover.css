@@ -1,0 +1,116 @@
+#title
+{
+  color: Purple;
+  font-family: Lobster;
+  text-align: center;
+  font-size: 45px;
+ 
+}
+#sub
+{
+color: Black;
+text-align: center;
+font-family:Helvetica;
+}
+#body
+{
+   background-color: rgba(45, 45, 45, 0.1);
+}
+#image
+{
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+ 
+}
+#img-caption
+{
+ 
+  color:#000080;
+  font-size: 18px;
+ text-align: center;
+  padding-bottom: 5%;
+ 
+  
+}
+.su
+{
+  font-size: 25px;
+  font-family:Lobster;
+  color: Purple;
+}
+
+#subt
+{
+  color: Black;
+  font-size: 30px;
+ text-align: center;
+  padding-top: 20%;
+}
+#tiny
+{
+  
+  color: #301934;
+  font-size:20px;
+  text-align: center;
+}
+#list
+{
+  font-size:20px;
+position:absolute;
+  color: Purple;
+  
+  
+}
+#tribute-info
+{
+  position:relative;
+  width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+#Getit
+{
+  
+  text-align:center;
+  font-size: 18px;
+}
+#tribute-link
+{
+width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+
+}
+#po:hover
+{
+  color: Red;
+}
+#blah
+{
+  padding-top:5%;
+  font-size: 18px;
+  text-align:center;
+}
+.bio
+{
+  font-size: 20px;
+}
+#tribute-link:hover
+{
+  color: green;
+}
+#copy
+{
+    text-align:center;
+    font-size: 18px;
+}
